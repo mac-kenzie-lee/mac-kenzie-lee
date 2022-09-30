@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mackenzie</h1>
-<h3 align="center">A motivated Full Stack Developer from Los Angeles</h3>
+<h3 align="center">A motivated Full Stack Developer from Los Angeles, with a background in Visual Arts, IT, Marketing and Management</h3>
 
 - 🔭 I’m currently working on [Story Crafter](https://github.com/mac-kenzie-lee/storyCrafter)
 
