@@ -30,7 +30,7 @@
 <a href="https://dribbble.com/mac-kenzie-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mac-kenzie-lee" height="30" width="40" /></a>
 </p>
 
-## Projects
+## My Projects
 <hr>
 <br>
 
