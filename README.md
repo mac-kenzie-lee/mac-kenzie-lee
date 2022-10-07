@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **lee.n.mackenzie@gmail.com**
 
-- 📄 Know about my experiences [https://mackenziedev.com/resume.pdf](https://mackenziedev.com/resume.pdf)
-
 - ⚡ Fun fact **I love classical oil painting and go make plein air paintings when I find the time.**
 
 
