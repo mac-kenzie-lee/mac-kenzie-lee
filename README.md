@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [mackenziedev.com](mackenziedev.com)
 
-- 💬 Ask me about **Html, CSS, Javascript, GIT, Python, Flask, SQLite3/SQL, Regex**
+- 💬 Ask me about **Html, CSS, Javascript, GIT, Python, Flask, SQLite3/SQL, Regex, AWS**
 
 - 📫 How to reach me **lee.n.mackenzie@gmail.com**
 
