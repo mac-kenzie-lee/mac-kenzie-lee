@@ -8,13 +8,15 @@
 
 - 🤝 I’m looking for help with [Decycle](https://decycle-app.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://mackenziedev.com/](mackenziedev.com)
+- 👨‍💻 All of my projects are available at (mackenziedev.com)(https://mackenziedev.com/)
 
 - 💬 Ask me about **Html, CSS, Javascript, GIT, Python, Flask, SQLite3/SQL, Regex, AWS**
 
 - 📫 How to reach me **lee.n.mackenzie@gmail.com**
 
 - ⚡ Fun fact **I love classical oil painting and go make plein air paintings when I find the time.**
+
+- Interested in Cloud Technologies and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5e66628c-64bc-47fb-9c51-e95c36ec1d8f/public_url)
 
 
 
