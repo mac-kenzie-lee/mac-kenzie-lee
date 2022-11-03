@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Decycle](https://decycle-app.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [mackenziedev.com](mackenziedev.com)
+- 👨‍💻 All of my projects are available at [https://mackenziedev.com/](mackenziedev.com)
 
 - 💬 Ask me about **Html, CSS, Javascript, GIT, Python, Flask, SQLite3/SQL, Regex, AWS**
 
