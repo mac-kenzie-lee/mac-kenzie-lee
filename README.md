@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, Express, MongoDB, Angular, AWS, Sass**
 
-- 🤝 I’m looking for help with [Decycle](https://decycl.com/)
+- 🤝 I’m looking for help with [Decycl](https://decycl.com/) -> AWS, Python, Flask, Tailwind
 
 - 👨‍💻 All of my projects are available at [mackenziedev.com](https://mackenziedev.com/)
 
